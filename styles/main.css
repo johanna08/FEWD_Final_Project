@@ -109,6 +109,18 @@ html {
 			display: inline-block;
 	}
 }
+
+/*bannerbox styles*/
+.bannerbox {
+	background-image: url('../images/williamsburg_bridge_pano.jpg');
+	background-size: cover;
+	background-position: center;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	height: 500px;
+}
 /*main page colors bisque4 #8b7d6b, NavajoWhite4 #8b795e,
 wheat4 #8b7e66*/
 
@@ -116,5 +128,6 @@ wheat4 #8b7e66*/
 	background-color: #8b7e66;
 	height: 1500px;
 }
+
 
 
