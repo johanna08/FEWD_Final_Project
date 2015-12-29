@@ -112,8 +112,8 @@ html {
 
 /*bannerbox styles*/
 .bannerbox {
-	background-image: url('../images/williamsburg_bridge_pano.jpg');
-	background-size: cover;
+	background-image: url('../images/brooklyn_neighbs_map.jpg');
+	background-size: center;
 	background-position: center;
 	padding-top: 3%;
 	padding-bottom: 3%;
@@ -125,7 +125,7 @@ html {
 wheat4 #8b7e66*/
 
 .layout__content {
-	background-color: #8b7e66;
+	background-color: #848482;
 	height: 1500px;
 }
 
